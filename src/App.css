@@ -1,9 +1,14 @@
-Body {
+body {
   background: #f9f8fe;
 }
 
 a {
-  color: #5e17ea;
+  color: #9670f4;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .App-header {
@@ -19,8 +24,4 @@ a {
 .App-footer {
   text-align: center;
   margin: 30px 0;
-}
-
-main {
-  text-align: left;
 }
